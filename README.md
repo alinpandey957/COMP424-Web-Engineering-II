@@ -12,7 +12,9 @@ Wrote two shell scripts to automate the installation and configuration of your s
 
 
 **2. The webpage**
-Web page paradigm: A login page, and upon successfully logging into the system, it will allow the user to download the company_confidential_file.txt. This page displays the successfully logged-in user: "Hi, (First-Name Last-Name)", "You have logged in X times" and "Last login date: Y". You will implement the webpage using PHP, MySQL, HTML, JavaScript, and CSS.
+            Web page paradigm: 
+                  A login page, and upon successfully logging into the system, it will allow the user to download the company_confidential_file.txt. This page                         displays the successfully logged-in user: "Hi, (First-Name Last-Name)", "You have logged in X times" and "Last login date: Y". You will implement
+                  using PHP, MySQL, HTML, JavaScript, and CSS.
 
       1) The login page
           An "https" webpage redirected from AWS web server would be a simple login page where the user can enter the username and password and a “Login” button.             Also, available on that page are two links: (i) New User? Sign Up and (ii) Forgot Username or Password?. 
