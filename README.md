@@ -1,5 +1,5 @@
 # COMP424-Web-Engineering-II
-User authentication web development using PHP, CSS, JavaScript and host in AWS
+User authentication web development using PHP, CSS, JavaScript and hosted in AWS with the required security technologies.
 
 Developed a web server and website for a small business company. The company is a typical small business company with medium hit-rate site visits for their webpage and very interested in security while not significantly compromising usability.
 
